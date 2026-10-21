@@ -1,0 +1,15 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+.venv/
+
+# 本地训练产物 (千万别传！)
+runs/
+data/
+dist/
+*.pt
+*.bin
+*.npy
+
+# 系统文件
+.DS_Store
